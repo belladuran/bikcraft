@@ -71,14 +71,11 @@
   gap: 16px;
 }
 
-/*.bicicletas li + li {
-  margin-top: 16px;
-} */
-
 .bicicletas_conteudo img {
   width: 24px;
   margin-right: 8px;
 }
+
 
 @media (max-width: 800px) {
   .bicicletas_bg {
@@ -91,7 +88,6 @@
     padding-bottom: 40px;
   }
 }
-
 
 @media (max-width: 600px) {
   .bicicletas_conteudo {

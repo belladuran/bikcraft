@@ -60,10 +60,10 @@
   width: 24px;
 }
 
-
 .bicicletas_lista li span {
   padding-left: 20px;
 }
+
 
 @media (max-width:800px) {
   .bicicletas_lista {

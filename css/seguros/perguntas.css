@@ -64,6 +64,7 @@
   max-width: 80ch;
 }
 
+
 @media (max-width: 800px) {
   .perguntas {
     padding-top: 60px;

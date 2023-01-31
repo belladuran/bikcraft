@@ -152,6 +152,7 @@
   display: grid;
 }
 
+
 @media (max-width: 1200px) {
   .orcamento_produto,
   .orcamento_dados {
